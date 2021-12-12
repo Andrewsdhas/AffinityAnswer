@@ -8,7 +8,8 @@ sol: I have used Regular expresstion to extract very word that is present in twe
        
 Question 2
 
-Sol:  I'm currently still woring on it's solution. It will be updated soon.
+Sol:  https://github.com/Andrewsdhas/Affinityanswerques2
+      Kindly look into the readme.md on the above repository to know how to execute the file. As I had a busy schedule I couldn't finish it as per the requirements.
 
 Question 3
 Which web tool has impressed you the most and why?
